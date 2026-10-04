@@ -1,0 +1,6 @@
+# Upstream sources this port builds (place the files in tarballs/)
+
+HarfBuzz 14.5.1
+  file:   harfbuzz-14.5.1.tar.xz
+  from:   https://github.com/harfbuzz/harfbuzz/releases/download/14.5.1/harfbuzz-14.5.1.tar.xz
+  sha256: 7e2fa4e8c7c98e8d8140671f5772542afaaa6acccfbd746506886b6d85f7f8d6
